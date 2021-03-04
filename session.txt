@@ -23,7 +23,6 @@ core.ignorecase=true
 core.precomposeunicode=true
 
 
-
 Changes not staged for commit:
 	modified:   README.md
 
