@@ -22,10 +22,7 @@ core.logallrefupdates=true
 core.ignorecase=true
 core.precomposeunicode=true
 
-no changes added to commit (use "git add" and/or "git commit -a")
-jakob@Jakobs-MacBook-Pro test % git commit   
-On branch main
-Your branch is up to date with 'origin/main'.
+
 
 Changes not staged for commit:
 	modified:   README.md
